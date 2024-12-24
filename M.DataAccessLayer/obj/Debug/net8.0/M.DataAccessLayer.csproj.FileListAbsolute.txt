@@ -1,0 +1,5 @@
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.DataAccessLayer\obj\Debug\net8.0\M.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.DataAccessLayer\obj\Debug\net8.0\M.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.DataAccessLayer\obj\Debug\net8.0\M.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.DataAccessLayer\obj\Debug\net8.0\M.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.DataAccessLayer\obj\Debug\net8.0\M.DataAccessLayer.csproj.CoreCompileInputs.cache

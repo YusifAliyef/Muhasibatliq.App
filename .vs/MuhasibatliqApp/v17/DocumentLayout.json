@@ -1,0 +1,711 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\wrappers\\interfaces\\iresponsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\wrappers\\interfaces\\iresponsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\wrappers\\implementations\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\wrappers\\implementations\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\wrappers\\implementations\\responsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\wrappers\\implementations\\responsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\wrappers\\classes\\responsevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\wrappers\\classes\\responsevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\ibusinessregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\ibusinessregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\concrete\\incomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\concrete\\incomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\concrete\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\concrete\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\abstract\\iincomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\abstract\\iincomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\abstract\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\abstract\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\migrations\\20241221183253_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\migrations\\20241221183253_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\mappers\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\mappers\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\enums\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\enums\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\extentions\\validationextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\extentions\\validationextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\configurations\\incomeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\configurations\\incomeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\configurations\\expenseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\configurations\\expenseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\configurations\\baseentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\configurations\\baseentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\concrete\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\concrete\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\concrete\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\concrete\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\concrete\\incomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\concrete\\incomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\components\\pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\components\\pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\components\\pages\\income.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\components\\pages\\income.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\components\\pages\\expense.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\components\\pages\\expense.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\abstract\\iincomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\abstract\\iincomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\abstract\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\abstract\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\wrappers\\interfaces\\iresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\wrappers\\interfaces\\iresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\dtos\\incomeviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\dtos\\incomeviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\dtos\\expenseviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\dtos\\expenseviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\dtos\\addincomedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\dtos\\addincomedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\services\\dtos\\addexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\services\\dtos\\addexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\products\\incomes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\products\\incomes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\products\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\products\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\products\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\products\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|c:\\users\\alyfx\\desktop\\muhasibat\\muhasibatliqapp\\muhasibatliqapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B76C6C3-8795-498E-B8CB-AFD1084B1835}|MuhasibatliqApp\\MuhasibatliqApp.csproj|solutionrelative:muhasibatliqapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IncomeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Configurations\\IncomeConfig.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Configurations\\IncomeConfig.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Configurations\\IncomeConfig.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Configurations\\IncomeConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:36:33.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExpenseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Configurations\\ExpenseConfig.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Configurations\\ExpenseConfig.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Configurations\\ExpenseConfig.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Configurations\\ExpenseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:36:32.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Configurations\\BaseEntityConfig.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Configurations\\BaseEntityConfig.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Configurations\\BaseEntityConfig.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Configurations\\BaseEntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:36:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Routes.razor",
+              "RelativeToolTip": "MuhasibatliqApp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:36:14.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "MuhasibatliqApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:36:13.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "MuhasibatliqApp\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:32:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MuhasibatliqApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:30:06.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBusinessRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\IBusinessRegister.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\IBusinessRegister.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\IBusinessRegister.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\IBusinessRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:42:03.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Mappers\\MapProfile.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Mappers\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Mappers\\MapProfile.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Mappers\\MapProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:37:00.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Projects.razor",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Projects.razor",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Components\\Pages\\Projects.razor",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Projects.razor",
+              "RelativeToolTip": "MuhasibatliqApp\\Components\\Pages\\Projects.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T15:34:31.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Income.razor",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Income.razor",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Components\\Pages\\Income.razor",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Income.razor",
+              "RelativeToolTip": "MuhasibatliqApp\\Components\\Pages\\Income.razor",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T15:30:17.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Expense.razor",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Expense.razor",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Components\\Pages\\Expense.razor",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Pages\\Expense.razor",
+              "RelativeToolTip": "MuhasibatliqApp\\Components\\Pages\\Expense.razor",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T15:30:08.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "MuhasibatliqApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T15:28:46.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationExtention.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Extentions\\ValidationExtention.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Extentions\\ValidationExtention.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Extentions\\ValidationExtention.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Extentions\\ValidationExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:41:08.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseType.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Enums\\ResponseType.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Enums\\ResponseType.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Enums\\ResponseType.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Enums\\ResponseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:40:06.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Classes\\ResponseValidationResult.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Wrappers\\Classes\\ResponseValidationResult.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Classes\\ResponseValidationResult.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Wrappers\\Classes\\ResponseValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:24:09.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Implementations\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Wrappers\\Implementations\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Implementations\\ResponseResult.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Wrappers\\Implementations\\ResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:20:19.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Implementations\\ResponseDataResult.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Wrappers\\Implementations\\ResponseDataResult.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Implementations\\ResponseDataResult.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Wrappers\\Implementations\\ResponseDataResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:19:54.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Interfaces\\IResponseResult.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Wrappers\\Interfaces\\IResponseResult.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Interfaces\\IResponseResult.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Wrappers\\Interfaces\\IResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:16:22.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IResponseDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Interfaces\\IResponseDataResult.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Wrappers\\Interfaces\\IResponseDataResult.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Wrappers\\Interfaces\\IResponseDataResult.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Wrappers\\Interfaces\\IResponseDataResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:16:03.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IncomeService.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Concrete\\IncomeService.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\Concrete\\IncomeService.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Concrete\\IncomeService.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\Concrete\\IncomeService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:05:00.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Concrete\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\Concrete\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Concrete\\ExpenseService.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\Concrete\\ExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:04:37.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IIncomeService.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Abstract\\IIncomeService.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\Abstract\\IIncomeService.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Abstract\\IIncomeService.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\Abstract\\IIncomeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:04:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Abstract\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\Abstract\\IExpenseService.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Abstract\\IExpenseService.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\Abstract\\IExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:04:08.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IncomeViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Dtos\\IncomeViewDto.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\Dtos\\IncomeViewDto.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Dtos\\IncomeViewDto.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\Dtos\\IncomeViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:58:55.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddIncomeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Dtos\\AddIncomeDto.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\Dtos\\AddIncomeDto.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Dtos\\AddIncomeDto.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\Dtos\\AddIncomeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:58:38.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddExpenseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Dtos\\AddExpenseDto.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\Dtos\\AddExpenseDto.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Dtos\\AddExpenseDto.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\Dtos\\AddExpenseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:58:22.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExpenseViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Dtos\\ExpenseViewDto.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Services\\Dtos\\ExpenseViewDto.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Services\\Dtos\\ExpenseViewDto.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Services\\Dtos\\ExpenseViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:58:06.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IncomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Concrete\\IncomeRepository.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Concrete\\IncomeRepository.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Concrete\\IncomeRepository.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Concrete\\IncomeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:51:00.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Concrete\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Concrete\\ExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Concrete\\ExpenseRepository.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Concrete\\ExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:50:47.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Concrete\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Concrete\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Concrete\\GenericRepository.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Concrete\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:50:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Abstract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Abstract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Abstract\\IGenericRepository.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Abstract\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:44:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IIncomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Abstract\\IIncomeRepository.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Abstract\\IIncomeRepository.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Abstract\\IIncomeRepository.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Abstract\\IIncomeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:44:06.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Abstract\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Abstract\\IExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Abstract\\IExpenseRepository.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Abstract\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:43:44.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241221183253_mig22.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Migrations\\20241221183253_mig22.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Migrations\\20241221183253_mig22.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Migrations\\20241221183253_mig22.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Migrations\\20241221183253_mig22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:32:53.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Incomes.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Products\\Incomes.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Products\\Incomes.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Products\\Incomes.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Products\\Incomes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:32:33.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:31:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Expenses.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Products\\Expenses.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Products\\Expenses.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Products\\Expenses.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Products\\Expenses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:30:28.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Products\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Products\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Products\\BaseEntity.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Products\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:30:19.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Program.cs",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\Program.cs",
+              "RelativeToolTip": "MuhasibatliqApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:58:57.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MuhasibatliqApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\Muhasibat\\MuhasibatliqApp\\MuhasibatliqApp\\appsettings.json",
+              "RelativeToolTip": "MuhasibatliqApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T17:56:14.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

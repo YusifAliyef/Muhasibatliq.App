@@ -1,0 +1,118 @@
+﻿@page "/projects/expense"
+@using MuhasibatliqApp.Services.Abstract
+@using MuhasibatliqApp.Services.Dtos
+@inject IExpenseService ExpenseService
+
+<h3>Expenses</h3>
+
+<div class="table-container mx-auto">
+   
+    <table class="table table-striped table-sm">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Project Name</th>
+                <th>Amount</th>
+                <th>Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (ExpensesList is not null && ExpensesList.Any())
+            {
+                foreach (var expense in ExpensesList)
+                {
+                    <tr>
+                        <td>@expense.Id</td>
+                        <td>@expense.ProjectName</td>
+                        <td>@expense.ExpensesPrice</td>
+                        <td>@expense.CreateDate.ToShortDateString()</td>
+                        <td>
+                            <button class="btn btn-danger btn-sm" @onclick="() => DeleteExpense(expense.Id)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5">No expenses found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+<div class="form-container mx-auto">
+    <h4>Add New Expense</h4>
+    <div class="mb-3">
+        <label for="projectName" class="form-label">Project Name</label>
+        <input type="text" id="projectName" class="form-control" @bind="NewExpense.ProjectName" />
+    </div>
+    <div class="mb-3">
+        <label for="amount" class="form-label">Amount</label>
+        <input type="number" id="amount" class="form-control" @bind="NewExpense.ExpensesPrice" />
+    </div>
+    <div class="mb-3">
+        <label for="date" class="form-label">Date</label>
+        <input type="date" id="date" class="form-control" @bind="NewExpense.CreateDate" />
+    </div>
+    <button class="btn btn-primary" @onclick="AddExpense">Add Expense</button>
+</div>
+
+<style>
+    .table-container,
+    .form-container {
+        max-width: 600px; 
+        width: 100%;
+    }
+
+    .table-container {
+        overflow-x: auto; 
+    }
+</style>
+
+@code {
+    private List<ExpenseViewDto> ExpensesList = new();
+    private AddExpenseDto NewExpense = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        
+        await LoadExpenses();
+    }
+
+    private async Task LoadExpenses()
+    {
+        var result = await ExpenseService.GetProductsAsync();
+        ExpensesList = result.ToList();
+    }
+
+    private async Task AddExpense()
+    {
+        var success = await ExpenseService.AddAsync(NewExpense);
+        if (success)
+        {
+            NewExpense = new AddExpenseDto(); 
+            await LoadExpenses(); 
+        }
+        else
+        {
+            Console.WriteLine("Error adding expense.");
+        }
+    }
+
+    private async Task DeleteExpense(int id)
+    {
+        var success = await ExpenseService.RemoveAsync(id);
+        if (success)
+        {
+            await LoadExpenses(); 
+        }
+        else
+        {
+            Console.WriteLine("Error deleting expense.");
+        }
+    }
+}

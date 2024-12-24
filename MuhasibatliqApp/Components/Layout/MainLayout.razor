@@ -1,0 +1,71 @@
+﻿@inherits LayoutComponentBase
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AdminLTE with Blazor</title>
+
+   
+    <link rel="stylesheet" href="adminlte/plugins/fontawesome-free/css/all.min.css" />
+    <link rel="stylesheet" href="adminlte/dist/css/adminlte.min.css" />
+</head>
+
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        
+        <aside class="main-sidebar sidebar-dark-primary elevation-4">
+            <a href="#" class="brand-link">
+                <span class="brand-text font-weight-light">AdminLTE</span>
+            </a>
+            <div class="sidebar">
+                <nav class="mt-2">
+                    <ul class="nav nav-pills nav-sidebar flex-column" role="menu">
+                       
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="/">
+                                <i class="nav-icon fas fa-home"></i>
+                                <p>Home</p>
+                            </NavLink>
+                        </li>
+
+                      
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="collapse" href="#projectsMenu" role="button" aria-expanded="false" aria-controls="projectsMenu">
+                                <i class="nav-icon fas fa-project-diagram"></i> Layihələr
+                            </a>
+                            <div class="collapse" id="projectsMenu">
+                                <ul class="nav nav-pills flex-column">
+                                    <li class="nav-item">
+                                        <NavLink class="nav-link" href="/projects/income">
+                                            <i class="fas fa-cash-register"></i> Gəlir
+                                        </NavLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NavLink class="nav-link" href="/projects/expense">
+                                            <i class="fas fa-money-bill-alt"></i> Xərc
+                                        </NavLink>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </aside>
+
+       
+        <div class="content-wrapper">
+            @Body
+        </div>
+
+        
+        <footer class="main-footer">
+            <strong>Copyright &copy; 2024 AdminLTE.</strong>
+            All rights reserved.
+        </footer>
+    </div>
+
+    <script src="adminlte/plugins/jquery/jquery.min.js"></script>
+    <script src="adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="adminlte/dist/js/adminlte.min.js"></script>
+</body>

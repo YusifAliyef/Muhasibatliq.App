@@ -1,0 +1,4 @@
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.BusinessLogicLayer\obj\Debug\net8.0\M.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.BusinessLogicLayer\obj\Debug\net8.0\M.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.BusinessLogicLayer\obj\Debug\net8.0\M.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.BusinessLogicLayer\obj\Debug\net8.0\M.BusinessLogicLayer.csproj.CoreCompileInputs.cache

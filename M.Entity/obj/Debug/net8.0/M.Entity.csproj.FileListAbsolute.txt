@@ -1,0 +1,4 @@
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.Entity\obj\Debug\net8.0\M.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.Entity\obj\Debug\net8.0\M.Entity.AssemblyInfoInputs.cache
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.Entity\obj\Debug\net8.0\M.Entity.AssemblyInfo.cs
+C:\Users\Alyfx\Desktop\Muhasibat\MuhasibatliqApp\M.Entity\obj\Debug\net8.0\M.Entity.csproj.CoreCompileInputs.cache

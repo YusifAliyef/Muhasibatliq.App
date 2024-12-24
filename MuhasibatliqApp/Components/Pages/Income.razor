@@ -1,0 +1,118 @@
+﻿@page "/projects/income"
+@using MuhasibatliqApp.Services.Abstract
+@using MuhasibatliqApp.Services.Dtos
+@inject IIncomeService IncomeService
+
+<h3>Incomes</h3>
+
+
+<div class="table-container mx-auto">
+    <table class="table table-striped table-sm">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Project Name</th>
+                <th>Amount</th>
+                <th>Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (IncomeList is not null && IncomeList.Any())
+            {
+                foreach (var income in IncomeList)
+                {
+                    <tr>
+                        <td>@income.Id</td>
+                        <td>@income.ProjectName</td>
+                        <td>@income.IncomePrice</td>
+                        <td>@income.CreateDate.ToShortDateString()</td>
+                        <td>
+                            <button class="btn btn-danger btn-sm" @onclick="() => DeleteIncome(income.Id)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5">No incomes found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+<h4>Add New Income</h4>
+<div class="form-container mx-auto">
+    <div class="mb-3">
+        <label for="projectName" class="form-label">Project Name</label>
+        <input type="text" id="projectName" class="form-control" @bind="NewIncome.ProjectName" />
+    </div>
+    <div class="mb-3">
+        <label for="amount" class="form-label">Amount</label>
+        <input type="number" id="amount" class="form-control" @bind="NewIncome.IncomePrice" />
+    </div>
+    <div class="mb-3">
+        <label for="date" class="form-label">Date</label>
+        <input type="date" id="date" class="form-control" @bind="NewIncome.CreateDate" />
+    </div>
+    <button class="btn btn-primary" @onclick="AddIncome">Add Income</button>
+</div>
+
+<style>
+    .table-container,
+    .form-container {
+        max-width: 600px; 
+        width: 100%;
+    }
+
+    .table-container {
+        overflow-x: auto; 
+    }
+</style>
+
+@code {
+    private List<IncomeViewDto> IncomeList = new();
+    private AddIncomeDto NewIncome = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+       
+        await LoadIncomes();
+    }
+
+    private async Task LoadIncomes()
+    {
+        var result = await IncomeService.GetIncomeAsync();
+        IncomeList = result.ToList();
+    }
+
+    private async Task AddIncome()
+    {
+        var success = await IncomeService.AddAsync(NewIncome);
+        if (success)
+        {
+            NewIncome = new AddIncomeDto(); 
+            await LoadIncomes(); 
+        }
+        else
+        {
+            Console.WriteLine("Error adding income.");
+        }
+    }
+
+    private async Task DeleteIncome(int id)
+    {
+        var success = await IncomeService.RemoveAsync(id);
+        if (success)
+        {
+            await LoadIncomes(); 
+        }
+        else
+        {
+            Console.WriteLine("Error deleting income.");
+        }
+    }
+}
